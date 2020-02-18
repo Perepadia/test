@@ -8,3 +8,4 @@
    - [A new user registration](uc_newuser_registration.md)
    - [A food order](uc_food_order.md)
    - [A vendor registration](uc_vendor_registration.md)
+   - [An order checkout](uc_order_checkout.md)

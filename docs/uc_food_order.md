@@ -24,6 +24,7 @@ For unregistered users.
 
 1. Open a site.
 2. Add dishes at the same way as described above. 
+3. Open cart and register to order dishes.
 
 ## Result
 Needed dished are in the cart.
